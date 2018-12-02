@@ -37,7 +37,7 @@ Running/using the software:
 	To play with your own library, you can simply run the binary:
 	- ./T08
 		
-	Make sure to widen the terminal window, so that the information can be displayed neatly.
+	*Make sure to widen the terminal window, so that the information can be displayed neatly.*
 	Once it is running, a menu will come up. Select one of the menu options by inputting its corresponding letter and 
 	pressing ENTER.
 
