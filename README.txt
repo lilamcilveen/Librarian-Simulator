@@ -1,4 +1,5 @@
 # LibrarySimulator
+# A project for Introduction to Software Engineering. - Fall 2018 [2404] 
 
 Purpose: 
 	The purpose of this software is to create a library consisting of fiction and non-fiction books.
