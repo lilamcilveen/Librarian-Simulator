@@ -1,8 +1,9 @@
 # LibrarySimulator
 
-Purpose: The purpose of this software is to add books to either a fiction or non-fiction library.
-	 Once the library is complete, the books will be sorted and displayed.
-	 This program makes use of many software engineering concepts introduced.
+Purpose: 
+	The purpose of this software is to add books to either a fiction or non-fiction library.
+	Once the library is complete, the books will be sorted and displayed.
+	This program makes use of many software engineering concepts introduced in COMP2404 at Carleton University.
 	 
 Developer & Development Date: Iqra McIlveen - November 15, 2018
 
