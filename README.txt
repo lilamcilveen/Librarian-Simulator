@@ -36,9 +36,9 @@ Running/using the software:
 
 This simulator applies the concepts of:
 	  - compiling a program using a Makefile
-	  - using redirection of standard I/O in Linux
+	  - using Linux standard I/O redirection
 	  - using inheritance and polymorphism in C++
-	  - working more extensively with pointers by implementing a doubly linked list 
+	  - working more extensively with pointers by implementing a doubly linked list as a collection class
 	  - designing a program using control, view, and entity objects 
 	  - using a destructor to clean up dynamically allocated objects 
 	  - using delegation to implement functionality in the appropriate objects 
