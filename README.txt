@@ -9,13 +9,13 @@ Software organization:
 		- Book.cc             - main.cc
 		- Control.cc          - NonFictionBook.cc
 		- FictionBook.cc      - View.cc
-    - Library.cc
+    		- Library.cc
 	There are 8 .h files consisting of:
 		- Array.h            - List.h
 		- Book.h             - NonFictionBook.cc
 		- Control.h          - View.cc
-		- FictionBook.h      
-    - Library.h
+		- FictionBook.h      - Library.h
+    
   There is also:
     - Makefile
     - in.txt
