@@ -1,134 +1,113 @@
 1
-101
-Ender's Game
-Card, Orson Scott
-1985
-n/a
+264
+Out of the Silent Planet
+C.S. Lewis
+1938
+PR6023.E926O54
 f
 1
-102
-Dune
-Herbert, Frank
-1965
-n/a
-f
+657
+Structure and Interpretation of Computer Programs
+Sussman, Gerald Jay; Abelson, Hal
+1980
+QA76.6 A255
+nf
 1
-110
-Foundation
-Asimov, Isaac
-1951
-n/a
-f
-1
-111
-Hitch Hiker's Guide to the Galaxy
-Adams, Douglas
-1979
-n/a
-f
-1
-112
-1984
-Orwell, George
-1949
-n/a
-f
-1
-113
-Stranger in a Strange Land
-Heinlein, Robert A.
-1961
-n/a
-f
-1
-114
-Farenheit 451
-Bradbury, Ray
-1954
-n/a
+371
+The Kite Runner
+Hosseini, Khaled
+2003
+PS3608.O832
 f
 1
 115
-2001:  A Space Odyssey
+2001: A Space Odyssey
 Clarke, Arthur C.
 1968
 n/a
 f
 1
-116
+328
+1984
+Orwell, George
+1949
+PR6029.R8
+f
+1
+256
+Farenheit 451
+Bradbury, Ray
+1954
+PS3503.R167
+f
+1
+42
+The Ultimate Hitchhiker's Guide to the Galaxy
+Adams, Douglas
+1979
+PR6051.D3352
+f
+1
+576
+Crime and Punishment
+Dostoevsky, Fyodor
+1866
+PG3326.P7
+f
+1
+253
 I, Robot
 Asimov, Isaac
 1950
+SCI-FI.A-1231
+f
+1
+336
+Station Eleven
+Mandel, Emily St. John
+2014
 n/a
 f
 1
-117
-Starship Troopers
-Heinlein, Robert A.
-1959
-n/a
-f
-1
-118
-Do Androids Dream of Electric Sheep?
-Dick, Philip K.
-1968
-n/a
-f
-1
-119
-Neuromancer
-Gibson, William
-1984
-n/a
-f
-1
-120
-Ringworld
-Niven, Larry
-1970
+487
+Divergent
+Roth, Veronica
+2011
 n/a
 f
 1
 121
-Rendezvous with Rama
-Clarke, Arthur C.
-1973
-n/a
+The Merchant of Venice
+Shakespeare, William
+1600
+PR2825.A2
 f
 1
-122
-Hyperion
-Simmons, Dan
-1989
+132
+Zen Mind, Beginner's Mind
+Suzuki, Shunryu
+1970
 n/a
-f
-1
-56
-Comp Sci Textbook
-Carleton
-1980
-000
 nf
 1
-64
+1280
 Fundamentals of Database Systems
 Elmarsi
-2012
-005
+2015
+n/a
 nf
 1
 77
 Operating Systems
 SCS Website
 2018
-003
+37
 nf
 1
 90
 Intro to Java
 Random Author Guy
 2009
-006
+5000
 nf
 0
