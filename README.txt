@@ -4,7 +4,8 @@
 Purpose: 
 	The purpose of this software is to create and manage a library consisting of fiction and non-fiction books.
 	Books types will be sorted and displayed in ascending and descending orders using a doubly linked list.
-	Many software engineering design priniciples are implemented -- introduced in a second year course at Carleton University.
+	Many software engineering design priniciples are implemented -- introduced in a second year course at Carleton 
+	University.
 	
 	Automated input to generate a test library is provided. [in.txt]
 	 
