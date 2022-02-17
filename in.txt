@@ -70,10 +70,10 @@ n/a
 f
 1
 121
-The Merchant of Venice
+King Lear
 Shakespeare, William
-1600
-PR2825.A2
+1608
+PR2819.A1
 f
 1
 132
