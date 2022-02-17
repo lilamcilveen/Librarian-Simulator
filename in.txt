@@ -34,13 +34,6 @@ Orwell, George
 PR6029.R8
 f
 1
-256
-Farenheit 451
-Bradbury, Ray
-1954
-PS3503.R167
-f
-1
 42
 The Ultimate Hitchhiker's Guide to the Galaxy
 Adams, Douglas
